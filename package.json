@@ -1,0 +1,26 @@
+{
+  "name": "pink",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Личный проект «Пинк»",
+  "author": "Тимофей Котловой",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:TimofeyKotlovoy/pink_2018.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TimofeyKotlovoy/pink_2018/issues"
+  },
+  "devDependencies": {
+    "eslint": "4.2.0",
+    "eslint-config-htmlacademy": "0.3.x"
+  },
+  "license": "MIT",
+  "dependencies": {},
+  "scripts": {
+    "test": "eslint js/"
+  },
+  "engines": {
+    "node": "^6.10"
+  }
+}
